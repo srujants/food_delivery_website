@@ -1,7 +1,5 @@
 # Food Delivery Website
 
-Welcome to the Food Delivery Website repository created by G.Vignesh! 🍽️
-
 ## Description
 
 This project is a dynamic and user-friendly food delivery website developed using HTML, CSS, and JavaScript. It offers an immersive experience for users to browse, select, and order from a wide range of culinary options.
@@ -29,9 +27,3 @@ This project is a dynamic and user-friendly food delivery website developed usin
 - HTML
 - CSS
 - JavaScript
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sweety-Vigneshg/food-delivery-website.git
